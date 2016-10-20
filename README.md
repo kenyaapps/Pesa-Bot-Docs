@@ -1,2 +1,5 @@
-# Pesa Bot Docs
-# Pesa Bot Docs
+# Pesa Bot Documentation
+
+##How to build the doc
+
+    make html
