@@ -1,3 +1,5 @@
+.. include:: security.md
+
 Write your own bot
 ==============================
 
